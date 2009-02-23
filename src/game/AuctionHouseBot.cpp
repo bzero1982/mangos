@@ -63,6 +63,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
 {
     if (!AHBSeller)
         return;
+    AuctionHouseEntry const* ahEntry = auctionmgr.GetAuctionHouseEntry(config->GetAHFID());
     AuctionHouseObject* auctionHouse = auctionmgr.GetAuctionsMap(config->GetAHFID());
     uint32 items = 0;
     uint32 minItems = config->GetMinItems();
@@ -341,6 +342,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
         auctionEntry->bid = 0;
         auctionEntry->deposit = 0;
         auctionEntry->expire_time = (time_t) (urand(config->GetMinTime(), config->GetMaxTime()) * 60 * 60 + time(NULL));
+        auctionEntry->auctionHouseEntry = ahEntry;
         item->SaveToDB();
         item->RemoveFromUpdateQueueOf(AHBplayer);
         auctionmgr.AddAItem(item);
