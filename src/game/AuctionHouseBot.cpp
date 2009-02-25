@@ -84,7 +84,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
         case 7:
             AuctioneerGUID = 23442; //goblin in GZ
         default:
-            AuctioneerGUID = 23442; //just default to neutral 7 not like it matters. =P
+            AuctioneerGUID = 23442; //default to neutral 7
     }
 
     if (auctions >= minItems)

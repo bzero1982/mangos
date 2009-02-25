@@ -420,7 +420,10 @@ void AuctionHouseMgr::LoadAuctions()
             continue;
         }
 
-        GetAuctionsMap( auctioneerInfo->faction_A )->AddAuction(aItem);
+        if(!sWorld.getConfig(CONFIG_ALLOW_TWO_SIDE_INTERACTION_AUCTION))
+            GetAuctionsMap( auctioneerInfo->faction_A )->AddAuction(aItem);
+        else
+            GetAuctionsMap( 120 )->AddAuction(aItem);
 
     } while (result->NextRow());
     delete result;
@@ -461,7 +464,7 @@ AuctionHouseEntry const* AuctionHouseMgr::GetAuctionHouseEntry(uint32 factionTem
     if(!sWorld.getConfig(CONFIG_ALLOW_TWO_SIDE_INTERACTION_AUCTION))
     {
         //FIXME: found way for proper auctionhouse selection by another way
-        // AuctionHo use.dbc have faction field with _player_ factions associated with auction house races.
+        // AuctionHouse.dbc have faction field with _player_ factions associated with auction house races.
         // but no easy way convert creature faction to player race faction for specific city
         switch(factionTemplateId)
         {
@@ -490,6 +493,8 @@ AuctionHouseEntry const* AuctionHouseMgr::GetAuctionHouseEntry(uint32 factionTem
             }
         }
     }
+    else
+        houseid = 7;
 
     return sAuctionHouseStore.LookupEntry(houseid);
 }
