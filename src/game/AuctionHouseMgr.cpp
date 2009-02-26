@@ -493,8 +493,6 @@ AuctionHouseEntry const* AuctionHouseMgr::GetAuctionHouseEntry(uint32 factionTem
             }
         }
     }
-    else
-        houseid = 7;
 
     return sAuctionHouseStore.LookupEntry(houseid);
 }
