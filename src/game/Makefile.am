@@ -157,7 +157,7 @@ libmangosgame_a_SOURCES = \
     mangchat/IRCLog.h \
     mangchat/IRCSock.cpp \
     mangchat/MCS_OnlinePlayers.cpp \
-    mangchat/MCS_OnlinePlayers.h \	    
+    mangchat/MCS_OnlinePlayers.h \
     Item.cpp \
     Item.h \
     ItemEnchantmentMgr.cpp \
