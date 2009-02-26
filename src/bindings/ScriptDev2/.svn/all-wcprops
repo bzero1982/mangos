@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/scriptdev2/!svn/ver/900/
+END
+scriptdev2.conf.dist.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/scriptdev2/!svn/ver/697/scriptdev2.conf.dist.in
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/scriptdev2/!svn/ver/43/LICENSE.txt
+END
+ScriptMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/scriptdev2/!svn/ver/838/ScriptMgr.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/scriptdev2/!svn/ver/724/config.h.in
+END
+scriptVC71.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/scriptdev2/!svn/ver/670/scriptVC71.sln
+END
+scriptVC80.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/scriptdev2/!svn/ver/670/scriptVC80.sln
+END
+scriptVC90.sln
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/scriptdev2/!svn/ver/670/scriptVC90.sln
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/scriptdev2/!svn/ver/43/Makefile.in
+END
+VCProjToLinuxMake.exe
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/scriptdev2/!svn/ver/619/VCProjToLinuxMake.exe
+END
+system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/scriptdev2/!svn/ver/719/system.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/scriptdev2/!svn/ver/861/Makefile.am
+END
+ScriptMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/scriptdev2/!svn/ver/897/ScriptMgr.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/scriptdev2/!svn/ver/724/config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/scriptdev2/!svn/ver/43/Makefile
+END

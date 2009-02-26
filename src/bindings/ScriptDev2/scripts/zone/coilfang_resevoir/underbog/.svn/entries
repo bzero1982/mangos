@@ -1,0 +1,54 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/coilfang_resevoir/underbog
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+boss_ghazan.cpp
+file
+
+
+
+
+2009-02-26T23:57:20.000000Z
+49bcc68b40b94a07598e7ff3cabcee85
+2008-10-20T22:25:07.433973Z
+706
+nurri
+has-props
+
+boss_hungarfen.cpp
+file
+
+
+
+
+2009-02-26T23:57:20.000000Z
+46a4f7bcdbe752566fd0e36c7cb7f16a
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+

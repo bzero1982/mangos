@@ -1,0 +1,54 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/blasted_lands
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+blasted_lands.cpp
+file
+
+
+
+
+2009-02-26T23:57:17.000000Z
+eb196528173efa56ca8f09a13f99fb07
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+
+boss_kruul.cpp
+file
+
+
+
+
+2009-02-26T23:57:17.000000Z
+a82a227be2e07d13642cd391ab536e46
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+

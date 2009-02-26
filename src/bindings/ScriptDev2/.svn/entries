@@ -1,0 +1,234 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-02-26T01:02:59.032271Z
+900
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+VC71
+dir
+
+VC80
+dir
+
+scriptdev2.conf.dist.in
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+fcd5da2a12cf4703be5e1450f8530586
+2008-10-16T23:18:23.950327Z
+697
+nofantasy
+has-props
+
+VC90
+dir
+
+Makefile.in
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+66a39049cc650792c1ba82531565b9ba
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+include
+dir
+
+scripts
+dir
+
+patches
+dir
+
+docs
+dir
+
+ScriptMgr.cpp
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+2b5a6b7b909e490b605f887ddf63595a
+2009-02-18T18:31:56.194463Z
+897
+nofantasy
+has-props
+
+config.h
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+84fa0cf863d6371266f1a3938d6a71e9
+2008-10-26T15:41:18.730409Z
+724
+nofantasy
+has-props
+
+sql
+dir
+
+LICENSE.txt
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+46b39127c800ae9546b0675c7dc36190
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+ScriptMgr.h
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+356d17b1b796f431049ba1527c39858a
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+
+config.h.in
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+84fa0cf863d6371266f1a3938d6a71e9
+2008-10-26T15:41:18.730409Z
+724
+nofantasy
+has-props
+
+scriptVC71.sln
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+0226199250ba3e35611f2f7445ea00b1
+2008-09-29T12:18:14.541211Z
+670
+nofantasy
+has-props
+
+scriptVC80.sln
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+5d56984aaf12799735c34e3558cf285e
+2008-09-29T12:18:14.541211Z
+670
+nofantasy
+has-props
+
+scriptVC90.sln
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+be2c6ada2f54f5183e4dccd1d633f54a
+2008-09-29T12:18:14.541211Z
+670
+nofantasy
+has-props
+
+VCProjToLinuxMake.exe
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+c193a366ea0d92d4439110e18e08dc87
+2008-09-05T20:50:11.935218Z
+619
+Ntsc
+has-props
+
+system.cpp
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+b0e2d7fbac588981957078a646b2b304
+2008-10-23T19:54:28.208330Z
+719
+nofantasy
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+566bdb6a2da92ec8a5e2c1410399235f
+2009-01-24T15:19:50.328829Z
+861
+nofantasy
+has-props
+
+Makefile
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+1090f37f5aa4fd6409dba2e49b8a60bb
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+

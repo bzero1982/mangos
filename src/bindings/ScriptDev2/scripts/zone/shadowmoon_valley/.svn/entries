@@ -1,0 +1,54 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/shadowmoon_valley
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-02-10T10:59:45.325819Z
+889
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+boss_doomwalker.cpp
+file
+
+
+
+
+2009-02-26T23:57:17.000000Z
+5f80786ba7c6b687616c1dfa91ebbc2f
+2009-01-22T18:50:44.121529Z
+851
+nofantasy
+has-props
+
+shadowmoon_valley.cpp
+file
+
+
+
+
+2009-02-26T23:57:17.000000Z
+dfb460e54244b879f8bcb14a8a7c443f
+2009-02-10T10:59:45.325819Z
+889
+nofantasy
+has-props
+

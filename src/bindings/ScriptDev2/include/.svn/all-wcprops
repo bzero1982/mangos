@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/scriptdev2/!svn/ver/887/include
+END
+sc_gossip.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/scriptdev2/!svn/ver/843/include/sc_gossip.h
+END
+sc_grid_searchers.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/scriptdev2/!svn/ver/838/include/sc_grid_searchers.h
+END
+sc_instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/scriptdev2/!svn/ver/838/include/sc_instance.h
+END
+sc_creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/scriptdev2/!svn/ver/887/include/sc_creature.cpp
+END
+precompiled.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/scriptdev2/!svn/ver/838/include/precompiled.cpp
+END
+sc_creature.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/scriptdev2/!svn/ver/881/include/sc_creature.h
+END
+precompiled.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/scriptdev2/!svn/ver/838/include/precompiled.h
+END

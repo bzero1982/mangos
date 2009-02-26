@@ -1,0 +1,54 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/hellfire_citadel/hellfire_ramparts
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+boss_watchkeeper_gargolmar.cpp
+file
+
+
+
+
+2009-02-26T23:57:12.000000Z
+e43ee13ccdd583c9187d660574860787
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+
+boss_omor_the_unscarred.cpp
+file
+
+
+
+
+2009-02-26T23:57:12.000000Z
+8ae1c180bcbaab7b8cad9da918a4d7f7
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+

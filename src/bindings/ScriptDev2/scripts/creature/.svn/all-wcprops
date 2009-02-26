@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/scriptdev2/!svn/ver/897/scripts/creature
+END
+simple_ai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/scriptdev2/!svn/ver/862/scripts/creature/simple_ai.cpp
+END
+mob_generic_creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/scriptdev2/!svn/ver/838/scripts/creature/mob_generic_creature.cpp
+END
+mob_event_ai.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/scriptdev2/!svn/ver/897/scripts/creature/mob_event_ai.cpp
+END
+simple_ai.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/scriptdev2/!svn/ver/862/scripts/creature/simple_ai.h
+END
+mob_event_ai.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/scriptdev2/!svn/ver/897/scripts/creature/mob_event_ai.h
+END

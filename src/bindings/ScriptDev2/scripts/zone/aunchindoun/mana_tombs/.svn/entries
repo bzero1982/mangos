@@ -1,0 +1,54 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/aunchindoun/mana_tombs
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-02-26T00:20:11.942279Z
+899
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+boss_nexusprince_shaffar.cpp
+file
+
+
+
+
+2009-02-26T23:57:20.000000Z
+0a692b4e310b7958a24640ac97d49c31
+2009-02-26T00:20:11.942279Z
+899
+nofantasy
+has-props
+
+boss_pandemonius.cpp
+file
+
+
+
+
+2009-02-26T23:57:20.000000Z
+9354b6e77529f11271da8f3aa48d8b42
+2009-01-02T00:31:50.974961Z
+838
+nofantasy
+has-props
+

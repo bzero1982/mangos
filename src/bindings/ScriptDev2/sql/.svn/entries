@@ -1,0 +1,115 @@
+8
+
+dir
+900
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2009-02-26T01:02:59.032271Z
+900
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+Makefile.in
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+2481ae8fe4afb724e91ff89e12041308
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+scriptdev2_structure.sql
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+d1782f4a1880325d7a35119c158dd83d
+2009-01-20T19:38:35.622678Z
+846
+nofantasy
+has-props
+
+Updates
+dir
+
+optional
+dir
+
+create_database.sql
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+67c768d24bd0c173d0bee6b7267e24b0
+2008-04-07T01:11:14.287851Z
+317
+Ntsc
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+1fd0edd6d93e5a6c18849496dc1cf1bb
+2008-10-06T10:45:24.134771Z
+682
+nofantasy
+has-props
+
+mangos_full_scripts.sql
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+d18a6d34f7680fd040f9f35d9e9a1bd7
+2009-02-26T01:02:59.032271Z
+900
+nofantasy
+has-props
+
+old
+dir
+
+scriptdev2_script_texts.sql
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+eafd872f6ed7d129a850fcc4b7c14161
+2009-01-24T16:03:27.376793Z
+862
+nofantasy
+has-props
+

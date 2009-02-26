@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/scriptdev2/!svn/ver/855/scripts/zone/blackrock_depths
+END
+boss_ambassador_flamelash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_ambassador_flamelash.cpp
+END
+boss_high_interrogator_gerstahn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_high_interrogator_gerstahn.cpp
+END
+boss_magmus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_magmus.cpp
+END
+blackrock_depths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/blackrock_depths.cpp
+END
+boss_general_angerforge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_general_angerforge.cpp
+END
+def_blackrock_depths.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/def_blackrock_depths.h
+END
+instance_blackrock_depths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/instance_blackrock_depths.cpp
+END
+boss_anubshiah.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_anubshiah.cpp
+END
+boss_moira_bronzebeard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_moira_bronzebeard.cpp
+END
+boss_gorosh_the_dervish.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_gorosh_the_dervish.cpp
+END
+boss_tomb_of_seven.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_depths/boss_tomb_of_seven.cpp
+END
+boss_emperor_dagran_thaurissan.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/scriptdev2/!svn/ver/849/scripts/zone/blackrock_depths/boss_emperor_dagran_thaurissan.cpp
+END
+boss_grizzle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/scriptdev2/!svn/ver/855/scripts/zone/blackrock_depths/boss_grizzle.cpp
+END
