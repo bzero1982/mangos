@@ -4323,7 +4323,7 @@ bool ChatHandler::HandleLevelUpCommand(const char* args)
             return false;
         }
 
-        name = GetNameLink(chr);
+        name = chr->GetName();
     }
 
     assert(chr || chr_guid);
