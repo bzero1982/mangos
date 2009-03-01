@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 40
-/svnroot/scriptdev2/!svn/ver/821/patches
+/svnroot/scriptdev2/!svn/ver/901/patches
 END
-MaNGOS-2008-12-22-ScriptDev2.patch
+MaNGOS-7356-ScriptDev2.patch.gz
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svnroot/scriptdev2/!svn/ver/814/patches/MaNGOS-2008-12-22-ScriptDev2.patch
+V 72
+/svnroot/scriptdev2/!svn/ver/901/patches/MaNGOS-7356-ScriptDev2.patch.gz
+END
+MaNGOS-7356-ScriptDev2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/scriptdev2/!svn/ver/901/patches/MaNGOS-7356-ScriptDev2.patch
 END
