@@ -144,51 +144,51 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                 {
                  case 0:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       greyTGoods = greyTGoods + 1;
+                       ++greyTGoods;
                     else
-                       greyItems = greyItems + 1;
+                       ++greyItems;
                     break;
 
                  case 1:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       whiteTGoods = whiteTGoods + 1;
+                       ++whiteTGoods;
                     else
-                       whiteItems = whiteItems + 1;
+                       ++whiteItems;
                     break;
 
                  case 2:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       greenTGoods = greenTGoods + 1;
+                       ++greenTGoods;
                     else
-                       greenItems = greenItems + 1;
+                       ++greenItems;
                     break;
 
                  case 3:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       blueTGoods = blueTGoods + 1;
+                       ++blueTGoods;
                     else
-                       blueItems = blueItems + 1;
+                       ++blueItems;
                     break;
 
                  case 4:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       purpleTGoods = purpleTGoods + 1;
+                       ++purpleTGoods;
                     else
-                       purpleItems = purpleItems + 1;
+                       ++purpleItems;
                     break;
 
                  case 5:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       orangeTGoods = orangeTGoods + 1;
+                       ++orangeTGoods;
                     else
-                       orangeItems = orangeItems + 1;
+                       ++orangeItems;
                     break;
 
                  case 6:
                     if (prototype->Class == ITEM_CLASS_TRADE_GOODS)
-                       yellowTGoods = yellowTGoods + 1;
+                       ++yellowTGoods;
                     else
-                       yellowItems = yellowItems + 1;
+                       ++yellowItems;
                     break;
                 }
             }
@@ -208,7 +208,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((greyItemsBin.size() > 0) && (greyItems < greyIcount))
                     {
                          itemID = greyItemsBin[urand(0, greyItemsBin.size() - 1)];
-                         greyItems++;
+                         ++greyItems;
                          break;
                     }
                 }
@@ -217,7 +217,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((whiteItemsBin.size() > 0) && (whiteItems < whiteIcount))
                     {
                          itemID = whiteItemsBin[urand(0, whiteItemsBin.size() - 1)];
-                         whiteItems++;
+                         ++whiteItems;
                          break;
                     }
                 }
@@ -226,7 +226,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((greenItemsBin.size() > 0) && (greenItems < greenIcount))
                     {
                          itemID = greenItemsBin[urand(0, greenItemsBin.size() - 1)];
-                         greenItems++;
+                         ++greenItems;
                          break;
                     }
                 }
@@ -235,7 +235,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((blueItemsBin.size() > 0) && (blueItems < blueIcount))
                     {
                          itemID = blueItemsBin[urand(0, blueItemsBin.size() - 1)];
-                         blueItems++;
+                         ++blueItems;
                          break;
                     }
                 }
@@ -244,7 +244,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((purpleItemsBin.size() > 0) && (purpleItems < purpleIcount))
                     {
                         itemID = purpleItemsBin[urand(0, purpleItemsBin.size() - 1)];
-                        purpleItems++;
+                        ++purpleItems;
                         break;
                     }
                 }
@@ -253,7 +253,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((orangeItemsBin.size() > 0) && (orangeItems < orangeIcount))
                     {
                         itemID = orangeItemsBin[urand(0, orangeItemsBin.size() - 1)];
-                        orangeItems++;
+                        ++orangeItems;
                         break;
                     }
                 }
@@ -262,7 +262,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((yellowItemsBin.size() > 0) && (yellowItems < yellowIcount))
                     {
                         itemID = yellowItemsBin[urand(0, yellowItemsBin.size() - 1)];
-                        yellowItems++;
+                        ++yellowItems;
                         break;
                     }
                 }
@@ -271,7 +271,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((greyTradeGoodsBin.size() > 0) && (greyTGoods < greyTGcount))
                     {
                          itemID = whiteTradeGoodsBin[urand(0, whiteTradeGoodsBin.size() - 1)];
-                         greyTGoods++;
+                         ++greyTGoods;
                          break;
                     }
                 }
@@ -280,7 +280,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((whiteTradeGoodsBin.size() > 0) && (whiteTGoods < whiteTGcount))
                     {
                          itemID = whiteTradeGoodsBin[urand(0, whiteTradeGoodsBin.size() - 1)];
-                         whiteTGoods++;
+                         ++whiteTGoods;
                          break;
                     }
                 }
@@ -289,7 +289,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((greenTradeGoodsBin.size() > 0) && (greenTGoods < greenTGcount))
                     {
                          itemID = greenTradeGoodsBin[urand(0, greenTradeGoodsBin.size() - 1)];
-                         greenTGoods++;
+                         ++greenTGoods;
                          break;
                     }
                 }
@@ -298,7 +298,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((blueTradeGoodsBin.size() > 0) && (blueTGoods < blueTGcount))
                     {
                          itemID = blueTradeGoodsBin[urand(0, blueTradeGoodsBin.size() - 1)];
-                         blueTGoods++;
+                         ++blueTGoods;
                          break;
                     }
                 }
@@ -307,7 +307,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((purpleTradeGoodsBin.size() > 0) && (purpleTGoods < purpleTGcount))
                     {
                          itemID = purpleTradeGoodsBin[urand(0, purpleTradeGoodsBin.size() - 1)];
-                         purpleTGoods++;
+                         ++purpleTGoods;
                          break;
                     }
                 }
@@ -316,7 +316,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((orangeTradeGoodsBin.size() > 0) && (orangeTGoods < orangeTGcount))
                     {
                          itemID = orangeTradeGoodsBin[urand(0, orangeTradeGoodsBin.size() - 1)];
-                         orangeTGoods++;
+                         ++orangeTGoods;
                          break;
                     }
                 }
@@ -325,7 +325,7 @@ static void addNewAuctions(Player *AHBplayer, AHBConfig *config)
                     if ((yellowTradeGoodsBin.size() > 0) && (yellowTGoods < yellowTGcount))
                     {
                          itemID = yellowTradeGoodsBin[urand(0, yellowTradeGoodsBin.size() - 1)];
-                         yellowTGoods++;
+                         ++yellowTGoods;
                          break;
                     }
                 }
@@ -757,7 +757,7 @@ static void addNewAuctionBuyerBotBid(Player *AHBplayer, AHBConfig *config, World
          // Remove auction
       auctionHouse->RemoveAuction(auction->Id);
          // Remove from database
-      CharacterDatabase.PExecute("DELETE FROM auctionhouse WHERE id = '%u'",auction->Id);
+      auction->DeleteFromDB();
 
       delete auction;
    }
@@ -776,7 +776,7 @@ void AuctionHouseBot()
     _AHBplayer.MinimalLoadFromDB(NULL, AHBplayerGUID);
     ObjectAccessor::Instance().AddObject(&_AHBplayer);
 
-    if(sConfig.GetIntDefault("AllowTwoSide.Interaction.Auction",0) == 0)
+    if(!sWorld.getConfig(CONFIG_ALLOW_TWO_SIDE_INTERACTION_AUCTION))
     {
         addNewAuctions(&_AHBplayer, &AllianceConfig);
         if (((_newrun - _lastrun_a) > (AllianceConfig.GetBiddingInterval() * 60)) && (AllianceConfig.GetBidsPerInterval() > 0))
@@ -824,7 +824,7 @@ void AuctionHouseBotInit()
     Bind_When_Use = sConfig.GetBoolDefault("AuctionHouseBot.Bind_When_Use", 1);
     Bind_Quest_Item = sConfig.GetBoolDefault("AuctionHouseBot.Bind_Quest_Item", 0);
 
-    if(sConfig.GetBoolDefault("AllowTwoSide.Interaction.Auction",0) == 0)
+    if(!sWorld.getConfig(CONFIG_ALLOW_TWO_SIDE_INTERACTION_AUCTION))
     {
         AuctionHouseBotLoadValues(&AllianceConfig);
         AuctionHouseBotLoadValues(&HordeConfig);
@@ -1121,7 +1121,7 @@ void AuctionHouseBotCommands(uint32 command, uint32 ahMapID, uint32 col, char* a
     {
     case 0:     //ahexpire
         {
-            AuctionHouseObject* auctionHouse = auctionmgr.GetAuctionsMap(ahMapID);
+            AuctionHouseObject* auctionHouse = auctionmgr.GetAuctionsMap(config->GetAHFID());
 
             AuctionHouseObject::AuctionEntryMap::iterator itr;
             itr = auctionHouse->GetAuctionsBegin();

@@ -177,4 +177,8 @@ The auction house IDs are:
 
 AHBot Originally made by Chris K.
 Much thanks to Chris K, grether and Dolomit6!
+<<<<<<< HEAD:README.AHBOT
 AHBot Now includes AHBuyer created by Kerbe as a derivative of AHBot, and later modified by Paradox
+=======
+AHBot Now includes AHBuyer created by Kerbe as a derivative of AHBot, and later modified by Paradox
+>>>>>>> 5535b3c95b028763e408c668a8c53cd5261113f1:README.AHBOT

@@ -3,7 +3,7 @@ SQLyog Community Edition- MySQL GUI v6.03
 Host - 5.0.51b-community-nt : Database - characters2
 *********************************************************************
 Server version : 5.0.51b-community-nt
-*/
+*/
 
 /*!40101 SET NAMES utf8 */;
 
