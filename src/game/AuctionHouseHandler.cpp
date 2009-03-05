@@ -684,4 +684,10 @@ void WorldSession::HandleAuctionListPendingSales( WorldPacket & recv_data )
     /*for(uint32 i = 0; i < count; ++i)
     {
         data << "";                                         // string
-        data << "";                            
+        data << "";                                         // string
+        data << uint32(0);
+        data << uint32(0);
+        data << float(0);
+    }*/
+    SendPacket(&data);
+}
