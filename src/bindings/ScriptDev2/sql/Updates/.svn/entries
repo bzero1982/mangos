@@ -1,7 +1,7 @@
 8
 
 dir
-901
+902
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql/Updates
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
@@ -247,9 +247,6 @@ file
 nofantasy
 has-props
 
-0.0.1
-dir
-
 r900_mangos.sql
 file
 
@@ -262,6 +259,9 @@ d172c204b29ec38cb017bfe4f158deac
 900
 nofantasy
 has-props
+
+0.0.1
+dir
 
 0.0.2
 dir
@@ -279,29 +279,16 @@ db8c7a80312c3c7ff21d6ae9dcbd3e2f
 nofantasy
 has-props
 
-r827_mangos.sql
+r863_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-01e03f2056588e4fd421e79c4d6f6b14
-2008-12-28T17:45:00.567397Z
-827
-nofantasy
-has-props
-
-r826_scriptdev2.sql
-file
-
-
-
-
-2009-02-26T23:57:54.000000Z
-b5718f3962d28dccf579838c13388379
-2008-12-28T13:39:54.232110Z
-826
+3c1193dad006e699414410302ff7cd1e
+2009-01-24T18:06:44.971618Z
+863
 nofantasy
 has-props
 
@@ -318,29 +305,29 @@ file
 nofantasy
 has-props
 
-r863_mangos.sql
+r826_scriptdev2.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-3c1193dad006e699414410302ff7cd1e
-2009-01-24T18:06:44.971618Z
-863
+b5718f3962d28dccf579838c13388379
+2008-12-28T13:39:54.232110Z
+826
 nofantasy
 has-props
 
-r883_mangos.sql
+r827_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-10b6f8ee1c55a372d37526156fbc0485
-2009-02-02T11:08:56.569207Z
-883
+01e03f2056588e4fd421e79c4d6f6b14
+2008-12-28T17:45:00.567397Z
+827
 nofantasy
 has-props
 
@@ -357,16 +344,29 @@ file
 nofantasy
 has-props
 
-r895_mangos.sql
+r883_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-fa125ab6aec1556afec9c519d48dc674
-2009-02-16T12:38:25.549379Z
-895
+10b6f8ee1c55a372d37526156fbc0485
+2009-02-02T11:08:56.569207Z
+883
+nofantasy
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+4d1d7e3b2b7f4ecf4c0d73e9674757cf
+2009-02-26T01:02:59.032271Z
+900
 nofantasy
 has-props
 
@@ -383,16 +383,16 @@ file
 nofantasy
 has-props
 
-Makefile.am
+r895_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-4d1d7e3b2b7f4ecf4c0d73e9674757cf
-2009-02-26T01:02:59.032271Z
-900
+fa125ab6aec1556afec9c519d48dc674
+2009-02-16T12:38:25.549379Z
+895
 nofantasy
 has-props
 
