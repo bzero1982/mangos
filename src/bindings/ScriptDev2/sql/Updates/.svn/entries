@@ -1,14 +1,14 @@
 8
 
 dir
-902
+908
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql/Updates
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-02-26T01:02:59.032271Z
-900
+2009-03-16T20:37:01.511083Z
+907
 nofantasy
 
 
@@ -36,6 +36,19 @@ file
 478c8776fe4ed0bd9f13dbf200d25a4a
 2009-01-24T16:03:27.376793Z
 862
+nofantasy
+has-props
+
+r907_scriptdev2_script_texts.sql
+file
+
+
+
+
+2009-03-16T22:57:14.000000Z
+dc9f75dde00dff06928b05d95127ed0a
+2009-03-16T20:37:01.511083Z
+907
 nofantasy
 has-props
 
@@ -104,6 +117,19 @@ file
 nofantasy
 has-props
 
+r903_mangos.sql
+file
+
+
+
+
+2009-03-16T22:57:14.000000Z
+8b27516fdf7dc90044f3d4bafa1a17b5
+2009-03-16T00:07:53.582829Z
+903
+nofantasy
+has-props
+
 r850_mangos.sql
 file
 
@@ -140,6 +166,19 @@ file
 4c65b0abf18d0b469feca1cb80569f4c
 2008-12-31T18:46:52.755974Z
 834
+nofantasy
+has-props
+
+r907_mangos.sql
+file
+
+
+
+
+2009-03-16T22:57:14.000000Z
+4d3b5ba21fb1b1f615d4ce3477746834
+2009-03-16T20:37:01.511083Z
+907
 nofantasy
 has-props
 
@@ -247,6 +286,9 @@ file
 nofantasy
 has-props
 
+0.0.1
+dir
+
 r900_mangos.sql
 file
 
@@ -259,9 +301,6 @@ d172c204b29ec38cb017bfe4f158deac
 900
 nofantasy
 has-props
-
-0.0.1
-dir
 
 0.0.2
 dir
@@ -279,29 +318,16 @@ db8c7a80312c3c7ff21d6ae9dcbd3e2f
 nofantasy
 has-props
 
-r863_mangos.sql
+r827_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-3c1193dad006e699414410302ff7cd1e
-2009-01-24T18:06:44.971618Z
-863
-nofantasy
-has-props
-
-r845_mangos.sql
-file
-
-
-
-
-2009-02-26T23:57:54.000000Z
-63ed6a690d41715d36f69f2a594648ed
-2009-01-20T21:52:46.424988Z
-848
+01e03f2056588e4fd421e79c4d6f6b14
+2008-12-28T17:45:00.567397Z
+827
 nofantasy
 has-props
 
@@ -318,29 +344,29 @@ b5718f3962d28dccf579838c13388379
 nofantasy
 has-props
 
-r827_mangos.sql
+r845_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-01e03f2056588e4fd421e79c4d6f6b14
-2008-12-28T17:45:00.567397Z
-827
+63ed6a690d41715d36f69f2a594648ed
+2009-01-20T21:52:46.424988Z
+848
 nofantasy
 has-props
 
-r846_scriptdev2.sql
+r863_mangos.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-9654ad20719e5bcc60d68783da4e9003
-2009-01-20T19:38:35.622678Z
-846
+3c1193dad006e699414410302ff7cd1e
+2009-01-24T18:06:44.971618Z
+863
 nofantasy
 has-props
 
@@ -357,29 +383,16 @@ file
 nofantasy
 has-props
 
-Makefile.am
+r846_scriptdev2.sql
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-4d1d7e3b2b7f4ecf4c0d73e9674757cf
-2009-02-26T01:02:59.032271Z
-900
-nofantasy
-has-props
-
-r820_scriptdev2_script_texts.sql
-file
-
-
-
-
-2009-02-26T23:57:54.000000Z
-5c66e283935b188f85ec760c8a6e5c05
-2008-12-26T13:57:49.986377Z
-820
+9654ad20719e5bcc60d68783da4e9003
+2009-01-20T19:38:35.622678Z
+846
 nofantasy
 has-props
 
@@ -396,6 +409,32 @@ fa125ab6aec1556afec9c519d48dc674
 nofantasy
 has-props
 
+r820_scriptdev2_script_texts.sql
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+5c66e283935b188f85ec760c8a6e5c05
+2008-12-26T13:57:49.986377Z
+820
+nofantasy
+has-props
+
+Makefile.am
+file
+
+
+
+
+2009-03-16T22:57:14.000000Z
+2ccc69c0b2df3b1a73ee03fcc0f1c7f6
+2009-03-16T20:37:01.511083Z
+907
+nofantasy
+has-props
+
 r822_scriptdev2_script_texts.sql
 file
 
@@ -406,6 +445,19 @@ file
 46697df0dd8635f5a357b5bdfe795cc1
 2008-12-26T18:04:45.552121Z
 822
+nofantasy
+has-props
+
+r903_scriptdev2_script_texts.sql
+file
+
+
+
+
+2009-03-16T22:57:14.000000Z
+22677b6dea300666ff37a16e3713eba5
+2009-03-16T00:07:53.582829Z
+903
 nofantasy
 has-props
 
