@@ -1,14 +1,14 @@
 8
 
 dir
-908
+911
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-03-16T21:14:12.359936Z
-908
+2009-03-16T23:56:31.998934Z
+911
 nofantasy
 
 
@@ -26,12 +26,6 @@ svn:special svn:externals svn:needs-lock
 
 5f9c896b-1e26-0410-94da-f77f675e2462
 
-VC71
-dir
-
-VC80
-dir
-
 scriptdev2.conf.dist.in
 file
 
@@ -44,6 +38,12 @@ fcd5da2a12cf4703be5e1450f8530586
 697
 nofantasy
 has-props
+
+VC80
+dir
+
+VC71
+dir
 
 VC90
 dir
@@ -64,27 +64,14 @@ has-props
 include
 dir
 
-scripts
+patches
 dir
 
-patches
+scripts
 dir
 
 docs
 dir
-
-ScriptMgr.cpp
-file
-
-
-
-
-2009-03-16T00:07:00.000000Z
-415f7ac79e54fa94d36edb53ca6a0812
-2009-03-14T09:07:41.276988Z
-902
-nofantasy
-has-props
 
 config.h
 file
@@ -99,20 +86,33 @@ file
 nofantasy
 has-props
 
+ScriptMgr.cpp
+file
+
+
+
+
+2009-03-16T00:07:00.000000Z
+415f7ac79e54fa94d36edb53ca6a0812
+2009-03-14T09:07:41.276988Z
+902
+nofantasy
+has-props
+
 sql
 dir
 
-LICENSE.txt
+config.h.in
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-46b39127c800ae9546b0675c7dc36190
-2007-05-12T19:27:23.860831Z
-43
-ntsc
+84fa0cf863d6371266f1a3938d6a71e9
+2008-10-26T15:41:18.730409Z
+724
+nofantasy
 has-props
 
 ScriptMgr.h
@@ -128,17 +128,17 @@ file
 nofantasy
 has-props
 
-config.h.in
+LICENSE.txt
 file
 
 
 
 
 2009-02-26T23:57:54.000000Z
-84fa0cf863d6371266f1a3938d6a71e9
-2008-10-26T15:41:18.730409Z
-724
-nofantasy
+46b39127c800ae9546b0675c7dc36190
+2007-05-12T19:27:23.860831Z
+43
+ntsc
 has-props
 
 scriptVC71.sln

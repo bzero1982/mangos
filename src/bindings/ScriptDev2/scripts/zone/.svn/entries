@@ -1,14 +1,14 @@
 8
 
 dir
-908
+911
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-03-16T20:37:01.511083Z
-907
+2009-03-16T23:56:31.998934Z
+911
 nofantasy
 
 
@@ -26,19 +26,19 @@ svn:special svn:externals svn:needs-lock
 
 5f9c896b-1e26-0410-94da-f77f675e2462
 
-zulgurub
+hellfire_citadel
 dir
 
 desolace
 dir
 
-hellfire_citadel
-dir
-
-darkshore
+zulgurub
 dir
 
 black_temple
+dir
+
+darkshore
 dir
 
 stonetalon_mountains
@@ -53,16 +53,16 @@ dir
 stormwind
 dir
 
-temple_of_ahnqiraj
-dir
-
 hillsbrad_foothills
 dir
 
-shadowmoon_valley
+temple_of_ahnqiraj
 dir
 
 ironforge
+dir
+
+shadowmoon_valley
 dir
 
 ulduar
@@ -119,25 +119,25 @@ dir
 ungoro_crater
 dir
 
-searing_gorge
-dir
-
-aunchindoun
+hinterlands
 dir
 
 blades_edge_mountains
 dir
 
-hinterlands
+aunchindoun
+dir
+
+searing_gorge
 dir
 
 zangarmarsh
 dir
 
-wetlands
+westfall
 dir
 
-westfall
+wetlands
 dir
 
 blackfathom_depths
@@ -161,13 +161,13 @@ dir
 coilfang_resevoir
 dir
 
-ruins_of_ahnqiraj
+dun_morogh
 dir
 
 onyxias_lair
 dir
 
-dun_morogh
+ruins_of_ahnqiraj
 dir
 
 nexus
@@ -179,10 +179,10 @@ dir
 burning_steppes
 dir
 
-violet_hold
+alterac_mountains
 dir
 
-alterac_mountains
+violet_hold
 dir
 
 nagrand
@@ -197,10 +197,10 @@ dir
 eastern_plaguelands
 dir
 
-obsidian_sanctum
+gnomeregan
 dir
 
-gnomeregan
+obsidian_sanctum
 dir
 
 razorfen_kraul
