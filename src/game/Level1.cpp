@@ -239,7 +239,7 @@ bool ChatHandler::HandleGMChatCommand(const char* args)
 }
 
 //Enable\Dissable Invisible mode
-bool ChatHandler::HandleVisibleCommand(const char* args)
+bool ChatHandler::HandleGMVisibleCommand(const char* args)
 {
     if (!*args)
     {
@@ -1988,7 +1988,7 @@ bool ChatHandler::HandleWhispersCommand(const char* args)
 }
 
 //Play sound
-bool ChatHandler::HandlePlaySoundCommand(const char* args)
+bool ChatHandler::HandleDebugPlaySoundCommand(const char* args)
 {
     // USAGE: .debug playsound #soundid
     // #soundid - ID decimal number from SoundEntries.dbc (1st column)
@@ -2105,7 +2105,7 @@ bool ChatHandler::HandleSendMailCommand(const char* args)
 }
 
 // teleport player to given game_tele.entry
-bool ChatHandler::HandleNameTeleCommand(const char * args)
+bool ChatHandler::HandleTeleNameCommand(const char * args)
 {
     if(!*args)
         return false;
@@ -2182,7 +2182,7 @@ bool ChatHandler::HandleNameTeleCommand(const char * args)
 }
 
 //Teleport group to given game_tele.entry
-bool ChatHandler::HandleGroupTeleCommand(const char * args)
+bool ChatHandler::HandleTeleGroupCommand(const char * args)
 {
     if(!*args)
         return false;
@@ -2573,7 +2573,7 @@ bool ChatHandler::HandleGoGridCommand(const char* args)
     return true;
 }
 
-bool ChatHandler::HandleDrunkCommand(const char* args)
+bool ChatHandler::HandleModifyDrunkCommand(const char* args)
 {
     if(!*args)    return false;
 
