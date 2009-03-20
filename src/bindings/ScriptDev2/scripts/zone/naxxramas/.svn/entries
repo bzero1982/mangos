@@ -1,7 +1,7 @@
 8
 
 dir
-911
+919
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/naxxramas
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
@@ -52,19 +52,6 @@ file
 nofantasy
 has-props
 
-boss_loatheb.cpp
-file
-
-
-
-
-2009-02-26T23:57:35.000000Z
-c9c05a1681d347755bb259a54889b87c
-2009-01-20T21:52:46.424988Z
-848
-nofantasy
-has-props
-
 boss_anubrekhan.cpp
 file
 
@@ -75,6 +62,19 @@ file
 c13ff4499c0791bafce42ea479f8f456
 2009-01-02T00:31:50.974961Z
 838
+nofantasy
+has-props
+
+boss_loatheb.cpp
+file
+
+
+
+
+2009-02-26T23:57:35.000000Z
+c9c05a1681d347755bb259a54889b87c
+2009-01-20T21:52:46.424988Z
+848
 nofantasy
 has-props
 
@@ -130,19 +130,6 @@ file
 nofantasy
 has-props
 
-boss_kelthuzad.cpp
-file
-
-
-
-
-2009-02-26T23:57:35.000000Z
-a6b0b96799b2fcb4f5fc7c927e659af7
-2009-02-26T00:06:29.416828Z
-898
-nofantasy
-has-props
-
 boss_heigan.cpp
 file
 
@@ -153,6 +140,19 @@ file
 7670a16f1c5ab5f98df0ca3163420dfc
 2009-01-20T21:52:46.424988Z
 848
+nofantasy
+has-props
+
+boss_kelthuzad.cpp
+file
+
+
+
+
+2009-02-26T23:57:35.000000Z
+a6b0b96799b2fcb4f5fc7c927e659af7
+2009-02-26T00:06:29.416828Z
+898
 nofantasy
 has-props
 

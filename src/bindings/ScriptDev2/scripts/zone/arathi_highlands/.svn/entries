@@ -1,15 +1,15 @@
 8
 
 dir
-911
+919
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/arathi_highlands
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2007-02-02T21:26:11.918615Z
-18
-Ntsc
+2009-03-17T12:16:44.610009Z
+912
+nofantasy
 
 
 svn:special svn:externals svn:needs-lock
@@ -25,4 +25,17 @@ svn:special svn:externals svn:needs-lock
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
+
+arathi_highlands.cpp
+file
+
+
+
+
+2009-03-20T01:07:43.000000Z
+9cfb5c616055b40c2c4625f508d313f5
+2009-03-17T12:16:44.610009Z
+912
+nofantasy
+has-props
 

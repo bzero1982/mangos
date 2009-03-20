@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_spire
+/svnroot/scriptdev2/!svn/ver/915/scripts/zone/blackrock_spire
 END
 boss_gyth.cpp
 K 25
@@ -31,7 +31,7 @@ boss_overlord_wyrmthalak.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/blackrock_spire/boss_overlord_wyrmthalak.cpp
+/svnroot/scriptdev2/!svn/ver/915/scripts/zone/blackrock_spire/boss_overlord_wyrmthalak.cpp
 END
 boss_rend_blackhand.cpp
 K 25

@@ -1,15 +1,15 @@
 8
 
 dir
-911
+919
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/magisters_terrace
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-02-03T19:31:42.322084Z
-886
-nofantasy
+2009-03-17T23:47:59.733655Z
+915
+arrai
 
 
 svn:special svn:externals svn:needs-lock
@@ -97,10 +97,10 @@ file
 
 
 
-2009-02-26T23:57:35.000000Z
-d8696e0dbdae606f3dad7cae4001b75c
-2009-01-28T14:30:43.087829Z
-878
-nofantasy
+2009-03-20T01:07:43.000000Z
+ca3426feb2e9437ec49d925cacbbe84d
+2009-03-17T23:47:59.733655Z
+915
+arrai
 has-props
 

@@ -1,15 +1,15 @@
 8
 
 dir
-911
+919
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/scholomance
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-01-24T20:52:00.326750Z
-864
-nofantasy
+2009-03-17T23:47:59.733655Z
+915
+arrai
 
 
 svn:special svn:externals svn:needs-lock
@@ -123,11 +123,11 @@ file
 
 
 
-2009-02-26T23:57:35.000000Z
-f23d1db64d2cfccf918dd04b8a0b74bb
-2009-01-24T20:52:00.326750Z
-864
-nofantasy
+2009-03-20T01:07:43.000000Z
+8c2d51c531930de2347752beefe7d041
+2009-03-17T23:47:59.733655Z
+915
+arrai
 has-props
 
 boss_lord_alexei_barov.cpp

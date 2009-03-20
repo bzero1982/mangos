@@ -1,15 +1,15 @@
 8
 
 dir
-911
+919
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/examples
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-01-24T14:37:27.660669Z
-860
-nofantasy
+2009-03-17T23:47:59.733655Z
+915
+arrai
 
 
 svn:special svn:externals svn:needs-lock
@@ -71,10 +71,10 @@ file
 
 
 
-2009-02-26T23:57:43.000000Z
-d4531b33c50e8801fb05c3c26865fa20
-2009-01-24T14:37:27.660669Z
-860
-nofantasy
+2009-03-20T01:07:43.000000Z
+76c96ffa71dea8fe3c133532f405ebbb
+2009-03-17T23:47:59.733655Z
+915
+arrai
 has-props
 

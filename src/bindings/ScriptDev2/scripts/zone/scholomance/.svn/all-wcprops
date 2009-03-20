@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/svnroot/scriptdev2/!svn/ver/864/scripts/zone/scholomance
+/svnroot/scriptdev2/!svn/ver/915/scripts/zone/scholomance
 END
 boss_doctor_theolen_krastinov.cpp
 K 25
@@ -49,7 +49,7 @@ boss_darkmaster_gandling.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/864/scripts/zone/scholomance/boss_darkmaster_gandling.cpp
+/svnroot/scriptdev2/!svn/ver/915/scripts/zone/scholomance/boss_darkmaster_gandling.cpp
 END
 boss_lord_alexei_barov.cpp
 K 25
