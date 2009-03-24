@@ -1,14 +1,14 @@
 8
 
 dir
-919
+936
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-03-19T23:05:32.053630Z
-919
+2009-03-23T13:55:50.329782Z
+936
 nofantasy
 
 
@@ -25,6 +25,19 @@ svn:special svn:externals svn:needs-lock
 
 
 5f9c896b-1e26-0410-94da-f77f675e2462
+
+scriptdev2_script_waypoint.sql
+file
+
+
+
+
+2009-03-24T02:01:06.000000Z
+ab9f615306fd8594998b9a742e9de1d0
+2009-03-23T13:55:50.329782Z
+936
+nofantasy
+has-props
 
 Makefile.in
 file
@@ -45,10 +58,10 @@ file
 
 
 
-2009-02-26T23:57:54.000000Z
-d1782f4a1880325d7a35119c158dd83d
-2009-01-20T19:38:35.622678Z
-846
+2009-03-24T02:01:06.000000Z
+d0e442a4c0c7c8019d999c2d7f87b261
+2009-03-20T17:31:58.575773Z
+922
 nofantasy
 has-props
 
@@ -77,10 +90,10 @@ file
 
 
 
-2009-02-26T23:57:54.000000Z
-1fd0edd6d93e5a6c18849496dc1cf1bb
-2008-10-06T10:45:24.134771Z
-682
+2009-03-24T02:01:06.000000Z
+8221adc6162e9bd357cc04ed7ddd9ed7
+2009-03-20T20:40:46.855431Z
+924
 nofantasy
 has-props
 
@@ -90,10 +103,10 @@ file
 
 
 
-2009-03-20T01:07:44.000000Z
-d08b2cef0b59c801e7554dd70152619b
-2009-03-18T18:53:01.413781Z
-916
+2009-03-24T02:01:06.000000Z
+bf3e9646834d3f854b635cbc0b66e9a0
+2009-03-20T11:16:39.682675Z
+920
 nofantasy
 has-props
 

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svnroot/scriptdev2/!svn/ver/919/sql/Updates
+/svnroot/scriptdev2/!svn/ver/936/sql/Updates
 END
 r862_scriptdev2_script_texts.sql
 K 25
@@ -117,23 +117,29 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/scriptdev2/!svn/ver/851/sql/Updates/r851_scriptdev2_script_texts.sql
 END
-r852_scriptdev2_script_texts.sql
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/scriptdev2/!svn/ver/852/sql/Updates/r852_scriptdev2_script_texts.sql
-END
 r834_scriptdev2_script_texts.sql
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/scriptdev2/!svn/ver/834/sql/Updates/r834_scriptdev2_script_texts.sql
 END
+r852_scriptdev2_script_texts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/scriptdev2/!svn/ver/852/sql/Updates/r852_scriptdev2_script_texts.sql
+END
 r916_scriptdev2_script_texts.sql
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/scriptdev2/!svn/ver/916/sql/Updates/r916_scriptdev2_script_texts.sql
+END
+r922_scriptdev2_script_waypoint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/scriptdev2/!svn/ver/922/sql/Updates/r922_scriptdev2_script_waypoint.sql
 END
 r854_scriptdev2_script_texts.sql
 K 25
@@ -147,11 +153,23 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/scriptdev2/!svn/ver/855/sql/Updates/r855_scriptdev2_script_texts.sql
 END
+r924_scriptdev2_script_waypoint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/scriptdev2/!svn/ver/924/sql/Updates/r924_scriptdev2_script_waypoint.sql
+END
 r856_scriptdev2_script_texts.sql
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/scriptdev2/!svn/ver/856/sql/Updates/r856_scriptdev2_script_texts.sql
+END
+r936_scriptdev2_script_waypoint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/scriptdev2/!svn/ver/936/sql/Updates/r936_scriptdev2_script_waypoint.sql
 END
 r900_mangos.sql
 K 25
@@ -165,29 +183,29 @@ svn:wc:ra_dav:version-url
 V 60
 /svnroot/scriptdev2/!svn/ver/912/sql/Updates/r912_mangos.sql
 END
-r835_mangos.sql
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/svnroot/scriptdev2/!svn/ver/835/sql/Updates/r835_mangos.sql
-END
 r916_mangos.sql
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /svnroot/scriptdev2/!svn/ver/916/sql/Updates/r916_mangos.sql
 END
-r827_mangos.sql
+r835_mangos.sql
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svnroot/scriptdev2/!svn/ver/827/sql/Updates/r827_mangos.sql
+/svnroot/scriptdev2/!svn/ver/835/sql/Updates/r835_mangos.sql
 END
 r826_scriptdev2.sql
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /svnroot/scriptdev2/!svn/ver/826/sql/Updates/r826_scriptdev2.sql
+END
+r827_mangos.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/scriptdev2/!svn/ver/827/sql/Updates/r827_mangos.sql
 END
 r845_mangos.sql
 K 25
@@ -217,7 +235,7 @@ Makefile.am
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/svnroot/scriptdev2/!svn/ver/919/sql/Updates/Makefile.am
+/svnroot/scriptdev2/!svn/ver/936/sql/Updates/Makefile.am
 END
 r820_scriptdev2_script_texts.sql
 K 25

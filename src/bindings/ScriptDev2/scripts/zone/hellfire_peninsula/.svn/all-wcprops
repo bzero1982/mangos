@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/scriptdev2/!svn/ver/851/scripts/zone/hellfire_peninsula
+/svnroot/scriptdev2/!svn/ver/936/scripts/zone/hellfire_peninsula
 END
 boss_doomlord_kazzak.cpp
 K 25
@@ -13,5 +13,5 @@ hellfire_peninsula.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/scriptdev2/!svn/ver/847/scripts/zone/hellfire_peninsula/hellfire_peninsula.cpp
+/svnroot/scriptdev2/!svn/ver/936/scripts/zone/hellfire_peninsula/hellfire_peninsula.cpp
 END

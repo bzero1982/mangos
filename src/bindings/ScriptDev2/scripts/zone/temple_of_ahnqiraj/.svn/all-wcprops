@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/scriptdev2/!svn/ver/915/scripts/zone/temple_of_ahnqiraj
+/svnroot/scriptdev2/!svn/ver/930/scripts/zone/temple_of_ahnqiraj
 END
 boss_viscidus.cpp
 K 25
@@ -37,7 +37,7 @@ boss_cthun.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/scriptdev2/!svn/ver/849/scripts/zone/temple_of_ahnqiraj/boss_cthun.cpp
+/svnroot/scriptdev2/!svn/ver/930/scripts/zone/temple_of_ahnqiraj/boss_cthun.cpp
 END
 boss_sartura.cpp
 K 25

@@ -31,6 +31,7 @@ enum Event_Types
     EVENT_T_QUEST_ACCEPT            = 19,   //QuestID
     EVENT_T_QUEST_COMPLETE          = 20,   //
     EVENT_T_REACHED_HOME            = 21,   //NONE
+    EVENT_T_RECEIVE_EMOTE           = 22,   //EmoteId, Condition, CondValue1, CondValue2
 
     EVENT_T_END,
 };
@@ -182,7 +183,7 @@ struct EventAI_Event
 };
 
 //Event_Map
-extern std::list<EventAI_Event> EventAI_Event_List;
+extern UNORDERED_MAP<uint32, std::vector<EventAI_Event> > EventAI_Event_Map;
 
 struct EventAI_Summon
 {

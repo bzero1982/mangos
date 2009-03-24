@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 40
-/svnroot/scriptdev2/!svn/ver/887/include
+/svnroot/scriptdev2/!svn/ver/922/include
 END
 sc_gossip.h
 K 25
@@ -37,7 +37,7 @@ sc_creature.h
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/svnroot/scriptdev2/!svn/ver/881/include/sc_creature.h
+/svnroot/scriptdev2/!svn/ver/922/include/sc_creature.h
 END
 precompiled.h
 K 25

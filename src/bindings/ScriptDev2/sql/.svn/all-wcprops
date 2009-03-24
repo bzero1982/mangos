@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 36
-/svnroot/scriptdev2/!svn/ver/919/sql
+/svnroot/scriptdev2/!svn/ver/936/sql
+END
+scriptdev2_script_waypoint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/scriptdev2/!svn/ver/936/sql/scriptdev2_script_waypoint.sql
 END
 Makefile.in
 K 25
@@ -13,7 +19,7 @@ scriptdev2_structure.sql
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svnroot/scriptdev2/!svn/ver/846/sql/scriptdev2_structure.sql
+/svnroot/scriptdev2/!svn/ver/922/sql/scriptdev2_structure.sql
 END
 create_database.sql
 K 25
@@ -25,13 +31,13 @@ Makefile.am
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/svnroot/scriptdev2/!svn/ver/682/sql/Makefile.am
+/svnroot/scriptdev2/!svn/ver/924/sql/Makefile.am
 END
 mangos_full_scripts.sql
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svnroot/scriptdev2/!svn/ver/916/sql/mangos_full_scripts.sql
+/svnroot/scriptdev2/!svn/ver/920/sql/mangos_full_scripts.sql
 END
 scriptdev2_script_texts.sql
 K 25

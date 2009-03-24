@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/scriptdev2/!svn/ver/852/scripts/zone/scarlet_monastery
+/svnroot/scriptdev2/!svn/ver/935/scripts/zone/scarlet_monastery
 END
 def_scarlet_monastery.h
 K 25
@@ -13,7 +13,7 @@ boss_interrogator_vishas.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 92
-/svnroot/scriptdev2/!svn/ver/852/scripts/zone/scarlet_monastery/boss_interrogator_vishas.cpp
+/svnroot/scriptdev2/!svn/ver/932/scripts/zone/scarlet_monastery/boss_interrogator_vishas.cpp
 END
 instance_scarlet_monastery.cpp
 K 25
@@ -37,7 +37,7 @@ boss_bloodmage_thalnos.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 90
-/svnroot/scriptdev2/!svn/ver/852/scripts/zone/scarlet_monastery/boss_bloodmage_thalnos.cpp
+/svnroot/scriptdev2/!svn/ver/935/scripts/zone/scarlet_monastery/boss_bloodmage_thalnos.cpp
 END
 boss_herod.cpp
 K 25
@@ -61,7 +61,7 @@ boss_arcanist_doan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/scriptdev2/!svn/ver/852/scripts/zone/scarlet_monastery/boss_arcanist_doan.cpp
+/svnroot/scriptdev2/!svn/ver/934/scripts/zone/scarlet_monastery/boss_arcanist_doan.cpp
 END
 boss_high_inquisitor_fairbanks.cpp
 K 25
