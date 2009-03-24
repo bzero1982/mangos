@@ -358,7 +358,6 @@ void IRCCmd::Fun_Player(_CDATA *CD)
         if(_PARAMS[1] == "sound")
         {
             uint32 sndid = atoi(_PARAMS[2].c_str());
-            plr->PlaySound(sndid ,true);
             Send_IRCA(ChanOrPM(CD), "\00313["+_PARAMS[0]+"] : Has Just Heard Sound ID: "+_PARAMS[2]+".", true, CD->TYPE);
         }
     }
@@ -1451,7 +1450,6 @@ void IRCCmd::PM_Player(_CDATA *CD)
             data << sMsg;
             data << (uint8)0;
             plr->GetSession()->SendPacket(&data);
-            plr->PlaySound(3081, true);
             Send_IRCA(ChanOrPM(CD), "\00313To ["+_PARAMS[0]+"] : "+_PARAMS[1]+".", true, CD->TYPE);
         }
         else
