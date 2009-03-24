@@ -245,7 +245,7 @@ void WorldSession::HandleMovementOpcodes( WorldPacket & recv_data )
     Unit *mover = _player->m_mover;
     recv_data.put<uint32>(6, getMSTime());                  // fix time, offset flags(4) + unk(2)
     WorldPacket data(recv_data.GetOpcode(), (mover->GetPackGUID().size()+recv_data.size()));
-    data.append(_player->m_mover->GetPackGUID());           // use mover guid
+    data.append(mover->GetPackGUID());                      // use mover guid
     data.append(recv_data.contents(), recv_data.size());
     GetPlayer()->SendMessageToSet(&data, false);
 
@@ -271,8 +271,7 @@ void WorldSession::HandleMovementOpcodes( WorldPacket & recv_data )
         }
     }
 
-    if (GetPlayer()->m_lastFallTime >= movementInfo.fallTime || GetPlayer()->m_lastFallZ <=movementInfo.z || recv_data.GetOpcode() == MSG_MOVE_FALL_LAND)
-        GetPlayer()->SetFallInformation(movementInfo.fallTime, movementInfo.z);
+    GetPlayer()->UpdateFallInformationIfNeed(movementInfo,MSG_MOVE_FALL_LAND);
 
     if(GetPlayer()->isMovingOrTurning())
         GetPlayer()->RemoveSpellsCausingAura(SPELL_AURA_FEIGN_DEATH);
@@ -292,7 +291,7 @@ void WorldSession::HandleMovementOpcodes( WorldPacket & recv_data )
             // TODO: discard movement packets after the player is rooted
             if(GetPlayer()->isAlive())
             {
-                GetPlayer()->EnvironmentalDamage(GetPlayer()->GetGUID(),DAMAGE_FALL_TO_VOID, GetPlayer()->GetMaxHealth());
+                GetPlayer()->EnvironmentalDamage(DAMAGE_FALL_TO_VOID, GetPlayer()->GetMaxHealth());
                 // change the death state to CORPSE to prevent the death timer from
                 // starting in the next player update
                 GetPlayer()->KillPlayer();
