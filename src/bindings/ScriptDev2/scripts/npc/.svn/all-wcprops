@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svnroot/scriptdev2/!svn/ver/922/scripts/npc
+/svnroot/scriptdev2/!svn/ver/938/scripts/npc
 END
 npc_escortAI.h
 K 25
@@ -25,7 +25,7 @@ npc_escortAI.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/svnroot/scriptdev2/!svn/ver/922/scripts/npc/npc_escortAI.cpp
+/svnroot/scriptdev2/!svn/ver/938/scripts/npc/npc_escortAI.cpp
 END
 npc_professions.cpp
 K 25

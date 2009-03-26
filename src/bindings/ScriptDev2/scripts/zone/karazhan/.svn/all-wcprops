@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/svnroot/scriptdev2/!svn/ver/899/scripts/zone/karazhan
+/svnroot/scriptdev2/!svn/ver/944/scripts/zone/karazhan
 END
 boss_shade_of_aran.cpp
 K 25
@@ -31,19 +31,19 @@ def_karazhan.h
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/karazhan/def_karazhan.h
+/svnroot/scriptdev2/!svn/ver/944/scripts/zone/karazhan/def_karazhan.h
 END
 instance_karazhan.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/karazhan/instance_karazhan.cpp
+/svnroot/scriptdev2/!svn/ver/944/scripts/zone/karazhan/instance_karazhan.cpp
 END
 bosses_opera.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/scriptdev2/!svn/ver/882/scripts/zone/karazhan/bosses_opera.cpp
+/svnroot/scriptdev2/!svn/ver/944/scripts/zone/karazhan/bosses_opera.cpp
 END
 boss_curator.cpp
 K 25

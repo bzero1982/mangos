@@ -1,14 +1,14 @@
 8
 
 dir
-936
+944
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/scripts/zone/zulaman
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-01-02T00:31:50.974961Z
-838
+2009-03-25T21:51:38.887061Z
+944
 nofantasy
 
 
@@ -26,16 +26,29 @@ svn:special svn:externals svn:needs-lock
 
 5f9c896b-1e26-0410-94da-f77f675e2462
 
+boss_zuljin.cpp
+file
+
+
+
+
+2009-03-26T05:55:51.000000Z
+126080099a3f5a495e50b0dcf8a28485
+2009-03-25T00:08:41.293989Z
+939
+nofantasy
+has-props
+
 boss_janalai.cpp
 file
 
 
 
 
-2009-02-26T23:57:34.000000Z
-d6ccc0d64ddb3b8cadb3a55ce3d307ce
-2009-01-02T00:31:50.974961Z
-838
+2009-03-26T05:55:51.000000Z
+665cdca5223099bf268e4a5d371bb1be
+2009-03-25T00:08:41.293989Z
+939
 nofantasy
 has-props
 
@@ -65,16 +78,29 @@ b82a22d77e979c6a40bf9a432a9db933
 nofantasy
 has-props
 
+boss_halazzi.cpp
+file
+
+
+
+
+2009-03-26T05:55:51.000000Z
+6557d586a31730aee03b9e0aaf81156a
+2009-03-25T00:08:41.293989Z
+939
+nofantasy
+has-props
+
 def_zulaman.h
 file
 
 
 
 
-2009-02-26T23:57:34.000000Z
-4c133d5397a7c5405c913d680b6735f8
-2009-01-02T00:31:50.974961Z
-838
+2009-03-26T05:55:51.000000Z
+8af2565ed81de64baabb37a777dd878e
+2009-03-25T21:51:38.887061Z
+944
 nofantasy
 has-props
 
@@ -84,10 +110,36 @@ file
 
 
 
-2009-02-26T23:57:34.000000Z
-69ba1f01dcc20fbb677abbf0e90f6e0b
-2009-01-02T00:31:50.974961Z
-838
+2009-03-26T05:55:51.000000Z
+d337053f943b70759c0f7f1703ae030d
+2009-03-25T00:08:41.293989Z
+939
+nofantasy
+has-props
+
+boss_malacrass.cpp
+file
+
+
+
+
+2009-03-26T05:55:51.000000Z
+8fc5823999ba2b28c175fbaa3cb1f07f
+2009-03-25T00:08:41.293989Z
+939
+nofantasy
+has-props
+
+boss_akilzon.cpp
+file
+
+
+
+
+2009-03-26T05:55:51.000000Z
+050e1007b61ee5ac3bc5ea4394f7d056
+2009-03-25T00:08:41.293989Z
+939
 nofantasy
 has-props
 

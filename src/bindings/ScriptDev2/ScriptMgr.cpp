@@ -398,6 +398,7 @@ extern void AddSC_orgrimmar();
 //Ragefire Chasm
 //Razorfen Downs
 extern void AddSC_boss_amnennar_the_coldbringer();
+extern void AddSC_razorfen_downs();
 
 //Redridge Mountains
 //Ruins of Ahn'Qiraj
@@ -1912,6 +1913,7 @@ void ScriptsInit()
     //Ragefire Chasm
     //Razorfen Downs
     AddSC_boss_amnennar_the_coldbringer();
+    AddSC_razorfen_downs();
 
     //Redridge Mountains
     //Ruins of Ahn'Qiraj
@@ -2125,12 +2127,7 @@ void DoScriptText(int32 textEntry, WorldObject* pSource, Unit* target)
     if((*i).second.SoundId)
     {
         if (GetSoundEntriesStore()->LookupEntry((*i).second.SoundId))
-        {
-            WorldPacket data(4);
-            data.SetOpcode(SMSG_PLAY_SOUND);
-            data << uint32((*i).second.SoundId);
-            pSource->SendMessageToSet(&data,false);
-        }
+            pSource->PlayDirectSound((*i).second.SoundId);
         else
             error_log("SD2: DoScriptText entry %i tried to process invalid sound id %u.",textEntry,(*i).second.SoundId);
     }

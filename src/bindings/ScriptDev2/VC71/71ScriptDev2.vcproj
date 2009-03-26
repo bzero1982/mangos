@@ -660,6 +660,9 @@
 					<File
 						RelativePath="..\scripts\zone\razorfen_downs\boss_amnennar_the_coldbringer.cpp">
 					</File>
+					<File
+						RelativePath="..\scripts\zone\razorfen_downs\razorfen_downs.cpp">
+					</File>
 				</Filter>
 				<Filter
 					Name="Shadowfang Keep">
@@ -1447,10 +1450,22 @@
 				<Filter
 					Name="Zul&apos;Aman">
 					<File
+						RelativePath="..\scripts\zone\zulaman\boss_akilzon.cpp">
+					</File>
+					<File
+						RelativePath="..\scripts\zone\zulaman\boss_halazzi.cpp">
+					</File>
+					<File
 						RelativePath="..\scripts\zone\zulaman\boss_janalai.cpp">
 					</File>
 					<File
+						RelativePath="..\scripts\zone\zulaman\boss_malacrass.cpp">
+					</File>
+					<File
 						RelativePath="..\scripts\zone\zulaman\boss_nalorakk.cpp">
+					</File>
+					<File
+						RelativePath="..\scripts\zone\zulaman\boss_zuljin.cpp">
 					</File>
 					<File
 						RelativePath="..\scripts\zone\zulaman\def_zulaman.h">

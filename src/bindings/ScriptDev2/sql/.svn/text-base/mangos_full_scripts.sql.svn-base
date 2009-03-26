@@ -22,6 +22,7 @@ UPDATE gameobject_template SET ScriptName='go_barov_journal' WHERE entry=180794;
 UPDATE gameobject_template SET ScriptName='go_field_repair_bot_74A' where entry=179552;
 UPDATE gameobject_template SET ScriptName='go_gilded_brazier' WHERE entry=181956;
 UPDATE gameobject_template SET ScriptName='go_orb_of_command' WHERE entry=179879;
+UPDATE gameobject_template SET ScriptName='go_sacred_fire_of_life' WHERE entry=175944;
 UPDATE gameobject_template SET ScriptName='go_tablet_of_madness' WHERE entry=180368;
 UPDATE gameobject_template SET ScriptName='go_tablet_of_the_seven' WHERE entry=169294;
 
@@ -608,6 +609,7 @@ UPDATE creature_template SET ScriptName='mob_flamewaker_priest' WHERE entry=1166
 
 /* MOONGLADE */
 UPDATE creature_template SET ScriptName='npc_bunthen_plainswind' WHERE entry=11798;
+UPDATE creature_template SET ScriptName='npc_clintar_dw_spirit' WHERE entry=22916;
 UPDATE creature_template SET ScriptName='npc_great_bear_spirit' WHERE entry=11956;
 UPDATE creature_template SET ScriptName='npc_silva_filnaveth' WHERE entry=11800;
 
@@ -682,6 +684,7 @@ UPDATE creature_template SET ScriptName='npc_thrall_warchief' WHERE entry=4949;
 
 /* RAZORFEN DOWNS */
 UPDATE creature_template SET ScriptName='boss_amnennar_the_coldbringer' WHERE entry=7358;
+UPDATE creature_template SET ScriptName='npc_henry_stern' WHERE entry=8696;
 
 /* REDRIDGE MOUNTAINS */
 

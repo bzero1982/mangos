@@ -261,6 +261,7 @@ scripts/zone/netherstorm/netherstorm.cpp \
 scripts/zone/onyxias_lair/boss_onyxia.cpp \
 scripts/zone/orgrimmar/orgrimmar.cpp \
 scripts/zone/razorfen_downs/boss_amnennar_the_coldbringer.cpp \
+scripts/zone/razorfen_downs/razorfen_downs.cpp \
 scripts/zone/ruins_of_ahnqiraj/boss_ayamiss.cpp \
 scripts/zone/ruins_of_ahnqiraj/boss_buru.cpp \
 scripts/zone/ruins_of_ahnqiraj/boss_kurinnaxx.cpp \
@@ -367,8 +368,12 @@ scripts/zone/western_plaguelands/western_plaguelands.cpp \
 scripts/zone/westfall/westfall.cpp \
 scripts/zone/winterspring/winterspring.cpp \
 scripts/zone/zangarmarsh/zangarmarsh.cpp \
+scripts/zone/zulaman/boss_akilzon.cpp \
+scripts/zone/zulaman/boss_halazzi.cpp \
 scripts/zone/zulaman/boss_janalai.cpp \
+scripts/zone/zulaman/boss_malacrass.cpp \
 scripts/zone/zulaman/boss_nalorakk.cpp \
+scripts/zone/zulaman/boss_zuljin.cpp \
 scripts/zone/zulaman/def_zulaman.h \
 scripts/zone/zulaman/instance_zulaman.cpp \
 scripts/zone/zulaman/zulaman.cpp \

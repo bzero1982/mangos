@@ -1,13 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/zulaman
+/svnroot/scriptdev2/!svn/ver/944/scripts/zone/zulaman
+END
+boss_zuljin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/scriptdev2/!svn/ver/939/scripts/zone/zulaman/boss_zuljin.cpp
 END
 boss_janalai.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/zulaman/boss_janalai.cpp
+/svnroot/scriptdev2/!svn/ver/939/scripts/zone/zulaman/boss_janalai.cpp
 END
 zulaman.cpp
 K 25
@@ -21,15 +27,33 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/scriptdev2/!svn/ver/838/scripts/zone/zulaman/boss_nalorakk.cpp
 END
+boss_halazzi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/scriptdev2/!svn/ver/939/scripts/zone/zulaman/boss_halazzi.cpp
+END
 def_zulaman.h
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/zulaman/def_zulaman.h
+/svnroot/scriptdev2/!svn/ver/944/scripts/zone/zulaman/def_zulaman.h
 END
 instance_zulaman.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/scriptdev2/!svn/ver/838/scripts/zone/zulaman/instance_zulaman.cpp
+/svnroot/scriptdev2/!svn/ver/939/scripts/zone/zulaman/instance_zulaman.cpp
+END
+boss_malacrass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/scriptdev2/!svn/ver/939/scripts/zone/zulaman/boss_malacrass.cpp
+END
+boss_akilzon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/scriptdev2/!svn/ver/939/scripts/zone/zulaman/boss_akilzon.cpp
 END
