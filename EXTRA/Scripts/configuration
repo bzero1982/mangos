@@ -1,0 +1,31 @@
+#!/bin/bash
+
+####################################################
+#       USER DEFINED CONFIGURATION VARIABLES       #
+####################################################
+
+JOBS=2
+
+DOPAUSE=1
+
+GITURL="git://github.com/brunogcar/mangos.git"
+SD2URL="https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/"
+
+PREFIX="/home/mangos/code/git"
+SOURCES="$PREFIX/source"
+OBJDIR="$SOURCES/objdir"
+
+INSTDIR="/home/mangos/code/compiled"
+CONFDIR="$INSTDIR/etc"
+DATADIR="$INSTDIR/data"
+
+####################################################
+#             PLEASE DO NOT EDIT BELOW             #
+#       IF YOU DON'T KNOW WHAT YOU ARE DOING       #
+####################################################
+
+function pause()
+{
+  read -s -n 1 -p "Press any key to continue..."
+}
+
