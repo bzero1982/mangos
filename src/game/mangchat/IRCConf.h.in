@@ -10,7 +10,7 @@
 #if PLATFORM == PLATFORM_WINDOWS
   #define _MANGCHAT_CONFIG  "mangchat.conf"
 #else
-  #define _MANGCHAT_CONFIG  "@sysconfdir@/mangchat.conf"
+  #define _MANGCHAT_CONFIG  "/home/mangos/code/compiled/etc/mangchat.conf"
 #endif
 
 #endif
