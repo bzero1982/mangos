@@ -4027,7 +4027,7 @@ bool ChatHandler::HandleNpcAllowMovementCommand(const char* /*args*/)
 
 bool ChatHandler::HandleNpcChangeEntryCommand(const char *args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     uint32 newEntryNum = atoi(args);
@@ -5486,12 +5486,10 @@ bool ChatHandler::HandleQuestComplete(const char* args)
     if(uint32 repFaction = pQuest->GetRepObjectiveFaction())
     {
         uint32 repValue = pQuest->GetRepObjectiveValue();
-        uint32 curRep = player->GetReputation(repFaction);
+        uint32 curRep = player->GetReputationMgr().GetReputation(repFaction);
         if(curRep < repValue)
-        {
-            FactionEntry const *factionEntry = sFactionStore.LookupEntry(repFaction);
-            player->SetFactionReputation(factionEntry,repValue);
-        }
+            if(FactionEntry const *factionEntry = sFactionStore.LookupEntry(repFaction))
+                player->GetReputationMgr().SetReputation(factionEntry,repValue);
     }
 
     // If the quest requires money
@@ -5520,7 +5518,7 @@ bool ChatHandler::HandleBanIPCommand(const char* args)
 
 bool ChatHandler::HandleBanHelper(BanMode mode, const char* args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     char* cnameOrIP = strtok ((char*)args, " ");
@@ -5608,7 +5606,7 @@ bool ChatHandler::HandleUnBanIPCommand(const char* args)
 
 bool ChatHandler::HandleUnBanHelper(BanMode mode, const char* args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     char* cnameOrIP = strtok ((char*)args, " ");
@@ -5651,7 +5649,7 @@ bool ChatHandler::HandleUnBanHelper(BanMode mode, const char* args)
 
 bool ChatHandler::HandleBanInfoAccountCommand(const char* args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     char* cname = strtok((char*)args, "");
@@ -5678,7 +5676,7 @@ bool ChatHandler::HandleBanInfoAccountCommand(const char* args)
 
 bool ChatHandler::HandleBanInfoCharacterCommand(const char* args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     std::string name = extractPlayerNameFromLink((char*)args);
@@ -5737,7 +5735,7 @@ bool ChatHandler::HandleBanInfoHelper(uint32 accountid, char const* accountname)
 
 bool ChatHandler::HandleBanInfoIPCommand(const char* args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     char* cIP = strtok ((char*)args, "");
@@ -6006,7 +6004,7 @@ bool ChatHandler::HandleRespawnCommand(const char* /*args*/)
 
 bool ChatHandler::HandleGMFlyModeCommand(const char* args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     Player *target = getSelectedPlayer();
@@ -6032,7 +6030,7 @@ bool ChatHandler::HandleGMFlyModeCommand(const char* args)
 
 bool ChatHandler::HandlePDumpLoadCommand(const char *args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     char * file = strtok((char*)args, " ");
@@ -6143,7 +6141,7 @@ bool ChatHandler::HandlePDumpLoadCommand(const char *args)
 
 bool ChatHandler::HandlePDumpWriteCommand(const char *args)
 {
-    if(!args)
+    if (!*args)
         return false;
 
     char* file = strtok((char*)args, " ");

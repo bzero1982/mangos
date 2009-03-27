@@ -99,6 +99,11 @@ libmangosgame_a_SOURCES = \
 	CreatureAISelector.h \
 	Creature.cpp \
 	Creature.h \
+	DBCEnums.h \
+	DBCfmt.h \
+	DBCStores.cpp \
+	DBCStores.h \
+	DBCStructure.h	\
 	debugcmds.cpp \
 	DestinationHolder.cpp \
 	DestinationHolder.h \
@@ -230,6 +235,8 @@ libmangosgame_a_SOURCES = \
 	RandomMovementGenerator.h \
 	ReactorAI.cpp \
 	ReactorAI.h \
+	ReputationMgr.cpp \
+	ReputationMgr.h \
 	ScriptCalls.cpp \
 	ScriptCalls.h \
 	SharedDefines.h \
