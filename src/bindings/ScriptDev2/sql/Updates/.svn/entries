@@ -1,14 +1,14 @@
 8
 
 dir
-944
+949
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2/sql/Updates
 https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
 
 
 
-2009-03-25T12:44:20.953684Z
-941
+2009-03-27T17:14:52.969652Z
+949
 nofantasy
 
 
@@ -49,6 +49,19 @@ file
 dc9f75dde00dff06928b05d95127ed0a
 2009-03-16T20:37:01.511083Z
 907
+nofantasy
+has-props
+
+r945_scriptdev2_script_texts.sql
+file
+
+
+
+
+2009-03-27T20:02:45.000000Z
+b57a026bae66a8e9402223b48179040d
+2009-03-26T22:32:15.971571Z
+945
 nofantasy
 has-props
 
@@ -104,6 +117,19 @@ file
 nofantasy
 has-props
 
+r945_scriptdev2_script_waypoint.sql
+file
+
+
+
+
+2009-03-27T20:02:45.000000Z
+ed4506639bb2190033abcc9f37255d20
+2009-03-26T22:32:15.971571Z
+945
+nofantasy
+has-props
+
 r937_scriptdev2_script_waypoint.sql
 file
 
@@ -114,6 +140,19 @@ file
 eebfcbfa5a4d817cdf2ca8e9f065f474
 2009-03-24T11:34:11.512503Z
 937
+nofantasy
+has-props
+
+r949_scriptdev2_script_waypoint.sql
+file
+
+
+
+
+2009-03-27T20:02:45.000000Z
+c5322948a1b87a887b441420949c6293
+2009-03-27T17:14:52.969652Z
+949
 nofantasy
 has-props
 
@@ -221,6 +260,19 @@ file
 nofantasy
 has-props
 
+r909_mangos.sql
+file
+
+
+
+
+2009-03-17T03:25:54.000000Z
+d3dbb96c35b398d6f893ece24b6acf78
+2009-03-16T22:06:32.268685Z
+909
+nofantasy
+has-props
+
 r828_mangos.sql
 file
 
@@ -234,16 +286,29 @@ file
 nofantasy
 has-props
 
-r909_mangos.sql
+r945_mangos.sql
 file
 
 
 
 
-2009-03-17T03:25:54.000000Z
-d3dbb96c35b398d6f893ece24b6acf78
-2009-03-16T22:06:32.268685Z
-909
+2009-03-27T20:02:45.000000Z
+ff513608cbf0839968232e29eb39391d
+2009-03-26T22:32:15.971571Z
+945
+nofantasy
+has-props
+
+r937_mangos.sql
+file
+
+
+
+
+2009-03-26T05:55:51.000000Z
+23223441ae1dbc802219a404f51ff1bb
+2009-03-24T11:34:11.512503Z
+937
 nofantasy
 has-props
 
@@ -259,16 +324,16 @@ d2c3050f9061e9ac97b24f4b96242fee
 919
 nofantasy
 
-r937_mangos.sql
+r947_mangos.sql
 file
 
 
 
 
-2009-03-26T05:55:51.000000Z
-23223441ae1dbc802219a404f51ff1bb
-2009-03-24T11:34:11.512503Z
-937
+2009-03-27T20:02:45.000000Z
+b9d295488b0abb89f320a9616243b280
+2009-03-27T10:51:17.129976Z
+947
 nofantasy
 has-props
 
@@ -311,19 +376,6 @@ d53aee832772ff9fd46158bf988263fb
 nofantasy
 has-props
 
-r834_scriptdev2_script_texts.sql
-file
-
-
-
-
-2009-02-26T23:57:54.000000Z
-c89e5343375e265f7dc1570d8da99c7e
-2008-12-31T18:46:52.755974Z
-834
-nofantasy
-has-props
-
 r852_scriptdev2_script_texts.sql
 file
 
@@ -337,16 +389,16 @@ d64d136e6c42017e272fdafeff43983e
 nofantasy
 has-props
 
-r922_scriptdev2_script_waypoint.sql
+r834_scriptdev2_script_texts.sql
 file
 
 
 
 
-2009-03-24T02:01:06.000000Z
-91a22059e9d6b00edc8a4265cf5d77d1
-2009-03-20T17:31:58.575773Z
-922
+2009-02-26T23:57:54.000000Z
+c89e5343375e265f7dc1570d8da99c7e
+2008-12-31T18:46:52.755974Z
+834
 nofantasy
 has-props
 
@@ -363,6 +415,19 @@ da116c6be00aeb96f3fac710718488df
 nofantasy
 has-props
 
+r922_scriptdev2_script_waypoint.sql
+file
+
+
+
+
+2009-03-24T02:01:06.000000Z
+91a22059e9d6b00edc8a4265cf5d77d1
+2009-03-20T17:31:58.575773Z
+922
+nofantasy
+has-props
+
 r854_scriptdev2_script_texts.sql
 file
 
@@ -373,19 +438,6 @@ file
 55464714c4ed49769cb797263f9a12a5
 2009-01-23T01:55:07.615790Z
 854
-nofantasy
-has-props
-
-r924_scriptdev2_script_waypoint.sql
-file
-
-
-
-
-2009-03-24T02:01:06.000000Z
-72434ebf98305919236c6c100b9ca65f
-2009-03-20T20:40:46.855431Z
-924
 nofantasy
 has-props
 
@@ -402,16 +454,16 @@ d6c10b8cbb54288611363da9c08245d9
 nofantasy
 has-props
 
-r856_scriptdev2_script_texts.sql
+r924_scriptdev2_script_waypoint.sql
 file
 
 
 
 
-2009-02-26T23:57:54.000000Z
-47adf98ba6a7d559133d56c143e45f03
-2009-01-23T18:46:57.772894Z
-856
+2009-03-24T02:01:06.000000Z
+72434ebf98305919236c6c100b9ca65f
+2009-03-20T20:40:46.855431Z
+924
 nofantasy
 has-props
 
@@ -425,6 +477,19 @@ file
 eb80e4a8c474d45a9fa0994b942c91e8
 2009-03-24T11:34:11.512503Z
 937
+nofantasy
+has-props
+
+r856_scriptdev2_script_texts.sql
+file
+
+
+
+
+2009-02-26T23:57:54.000000Z
+47adf98ba6a7d559133d56c143e45f03
+2009-01-23T18:46:57.772894Z
+856
 nofantasy
 has-props
 
@@ -635,10 +700,10 @@ file
 
 
 
-2009-03-26T05:55:51.000000Z
-d81e5f20f0473854ad6a8338de85f967
-2009-03-25T12:44:20.953684Z
-941
+2009-03-27T20:02:45.000000Z
+19da1b20d35cc21d2a83e6e154e43253
+2009-03-27T17:14:52.969652Z
+949
 nofantasy
 has-props
 
