@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/scriptdev2/!svn/ver/949/scripts/zone/scarlet_monastery
+/svnroot/scriptdev2/!svn/ver/950/scripts/zone/scarlet_monastery
 END
 def_scarlet_monastery.h
 K 25
@@ -43,7 +43,7 @@ boss_herod.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/scriptdev2/!svn/ver/949/scripts/zone/scarlet_monastery/boss_herod.cpp
+/svnroot/scriptdev2/!svn/ver/950/scripts/zone/scarlet_monastery/boss_herod.cpp
 END
 boss_mograine_and_whitemane.cpp
 K 25

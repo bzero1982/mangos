@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/scriptdev2/!svn/ver/890/scripts/zone/coilfang_resevoir/serpent_shrine
+/svnroot/scriptdev2/!svn/ver/955/scripts/zone/coilfang_resevoir/serpent_shrine
 END
 boss_hydross_the_unstable.cpp
 K 25
@@ -31,7 +31,7 @@ boss_fathomlord_karathress.cpp
 K 25
 svn:wc:ra_dav:version-url
 V 109
-/svnroot/scriptdev2/!svn/ver/890/scripts/zone/coilfang_resevoir/serpent_shrine/boss_fathomlord_karathress.cpp
+/svnroot/scriptdev2/!svn/ver/955/scripts/zone/coilfang_resevoir/serpent_shrine/boss_fathomlord_karathress.cpp
 END
 boss_morogrim_tidewalker.cpp
 K 25

@@ -45,6 +45,8 @@ EndScriptData */
 //Sharkkis spells
 #define SPELL_LEECHING_THROW        29436
 #define SPELL_THE_BEAST_WITHIN      38373
+#define SPELL_SUMMON_FATHOM_LURKER  38433
+#define SPELL_SUMMON_FATHOM_SPOREBAT 38431
 //Tidalvess spells
 #define SPELL_FROST_SHOCK           38234
 //Caribdis Spells
@@ -221,8 +223,8 @@ struct MANGOS_DLL_DECL boss_fathomlord_karathressAI : public ScriptedAI
                     //stack max three times (one for each alive)
                     if (Advisor->isAlive())
                     {
-                        m_creature->InterruptNonMeleeSpells(false);
-                        m_creature->CastSpell(m_creature, SPELL_BLESSING_OF_THE_TIDES,false);
+                        Advisor->InterruptNonMeleeSpells(false);
+                        Advisor->CastSpell(m_creature, SPELL_BLESSING_OF_THE_TIDES, false);
                     }
                 }
             }
@@ -287,6 +289,9 @@ struct MANGOS_DLL_DECL boss_fathomguard_sharkkisAI : public ScriptedAI
             pInstance->SetData64(DATA_KARATHRESSEVENT_STARTER, who->GetGUID());
             pInstance->SetData(DATA_KARATHRESSEVENT, IN_PROGRESS);
         }
+
+        // spawn one of the pets on aggro
+        DoCast(m_creature, urand(0,1) ? SPELL_SUMMON_FATHOM_LURKER : SPELL_SUMMON_FATHOM_SPOREBAT);
     }
 
     void UpdateAI(const uint32 diff)
