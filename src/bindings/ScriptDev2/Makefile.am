@@ -48,6 +48,7 @@ scripts/creature/mob_event_ai.h \
 scripts/creature/mob_generic_creature.cpp \
 scripts/creature/simple_ai.cpp \
 scripts/creature/simple_ai.h \
+scripts/custom/telenpc.cpp \
 scripts/examples/example_creature.cpp \
 scripts/examples/example_escort.cpp \
 scripts/examples/example_gossip_codebox.cpp \

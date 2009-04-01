@@ -72,6 +72,8 @@ extern void AddSC_generic_creature();
 
 // -- Custom --
 
+extern void AddSC_telenpc();
+
 // -- Examples --
 extern void AddSC_example_creature();
 extern void AddSC_example_escort();
@@ -1591,6 +1593,8 @@ void ScriptsInit()
     AddSC_generic_creature();
 
     // -- Custom --
+
+    AddSC_telenpc();
 
     // -- Examples --
     AddSC_example_creature();
